@@ -40,12 +40,14 @@ import Exhibition1 from "./Pages/projects/ex/ex1";
 import Exhibition2 from "./Pages/projects/ex/ex2";
 import ScrollToTop from "./Components/Scroll/ScrollToTop";
 import Error from "./Pages/error/Error";
+import MyImage from '../src//Components/underConst/underConst.jpeg'
 
 
 function App() {
   return (
     <div className="App">
-      <ScrollToTop />
+      <img src={MyImage} alt='Under Construction' width={1500} height={800}/>
+      {/* <ScrollToTop />
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -89,7 +91,7 @@ function App() {
         <Route path="/*" element={<Error />} />
       </Routes>
       <BackToTop />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
