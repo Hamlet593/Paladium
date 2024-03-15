@@ -16,7 +16,7 @@ const Footer = () => (
     </div>
 
     <div className="footer-copyright text-center py-3">
-      © 2023 Copyright: Paladiumtechserviceltd
+      © 2024 Copyright: Paladiumtechserviceltd
     </div>
   </footer>
 );
