@@ -1,7 +1,6 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
 import img from "../../Components/carousel1/pics/ourwork.jpg"
-import Works from "./Components/Slider"
 import Text from "./Components/Text";
 
 
