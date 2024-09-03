@@ -3,11 +3,9 @@ import "./feedback.css";
 function BasicExample() {
   return (
     <div className="feedback">
-      <p>
-        You can contact us.
-      </p>
-      <p>by email: info@paladiumtechserviceltd.com</p>
-      <p>by phone: +971 52 725 68 19</p>
+      <p>You can contact us.</p>
+      <p>Address: House of Francis, Room 303, Ile Du Port, Mahe, Seychelle</p>
+      <p>Phone: +372 81941296</p>
     </div>
   );
 }
