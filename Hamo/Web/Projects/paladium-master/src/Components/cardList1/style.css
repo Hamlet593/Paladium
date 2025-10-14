@@ -1,0 +1,45 @@
+.card-group {
+    margin-top: 40px;
+}
+
+
+h3 {
+    color: black;
+}
+
+.g-4 {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    margin-left: 0;
+}
+
+.servcont .col {
+    width: 21%;
+    min-width: 200px;
+}
+.card-text {
+    color: black;
+}
+
+.servcont .card-img-top {
+    width: 50px;
+    max-height: 50px;
+    object-fit: cover;
+}
+
+.col .card {
+    border: none;
+    display: flex;
+    align-items: center;
+}
+
+
+.servcont .card .card-body {
+    text-align: center;
+}
+
+
+
+

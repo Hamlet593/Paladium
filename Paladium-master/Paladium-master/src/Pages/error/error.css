@@ -1,0 +1,27 @@
+
+.error div {
+    margin-top: 50px;
+    max-width: 400px;
+    max-height: 400px;
+    min-width: 200px;
+    min-height: 200px;
+}
+
+.error div img {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    min-width: 250px;
+}
+
+.error div div {
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+
+.error {
+    display: flex;
+    justify-content: center;
+}

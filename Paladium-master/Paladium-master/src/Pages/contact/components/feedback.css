@@ -1,0 +1,10 @@
+.feedback {
+    margin-left: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.feedback p {
+    font-weight: 500;
+    font-size: 20;
+}

@@ -1,0 +1,34 @@
+.staffcont {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.stinfo .col {
+    width: 100%;
+}
+
+.stimg {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+}
+
+.stinfocol p {
+    padding: 0;
+    margin: 0;
+}
+
+.itinfo {
+    margin-bottom: 20px;
+}
+
+.stinfocol1 {
+    margin-top: 20px;
+}
+
+.stinfo {
+    text-align: justify;
+}

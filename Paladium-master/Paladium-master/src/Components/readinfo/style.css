@@ -1,0 +1,22 @@
+.info {
+    background-color: rgba(184, 131, 26);
+    margin-top: 60px;
+    padding: 50px;
+    width: 100%;
+}
+.info1 {
+    width: 70%;
+    color: white;
+}
+
+.info h3 {
+    margin-top: 40px;
+}
+
+.info2 {
+    margin-top: 2%;
+}
+
+.btn {
+    padding: 15px
+}

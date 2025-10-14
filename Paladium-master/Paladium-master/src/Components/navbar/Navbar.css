@@ -1,0 +1,72 @@
+.navbar {
+    background-color: rgba(64, 130, 162, 0.8);
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    transition: 0.5s;
+}
+
+.navbar.active {
+    padding-top: 10px;
+    background-color: rgba(64, 130, 162);
+    transition: 0.5s;
+}
+
+.caption {
+    margin-bottom: 60px;
+}
+
+.navbar-nav a {
+    color: white;
+    font-weight: 600;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.navbar-nav a:hover {
+    color: black
+}
+.navbar-nav a:focus {
+    color: black;
+}
+
+.nl {
+    margin-left: 10px;
+}
+
+.show {
+    padding: 10px;
+    margin-left: 0;
+}
+
+.collapsing{
+    padding: 10px;
+}
+
+.collapse .mr-auto {
+    margin-left: 40%;
+}
+
+.show .mr-auto {
+    margin-left: 0%;
+}
+
+.show .mr-auto .nl {
+    margin-bottom: 10px;
+}
+.collapsing .mr-auto .nl {
+    margin-bottom: 10px;
+}
+
+.navbar .cont {
+    padding: 0;
+    border: none;
+}
+.navbar-toggler {
+    margin-right: 15px;
+}
+
+.active {
+    color: black;
+}

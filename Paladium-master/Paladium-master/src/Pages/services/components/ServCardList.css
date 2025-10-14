@@ -1,0 +1,15 @@
+.servcardcont .card-img-top {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit:cover;
+}
+
+.servcardcont .card-body {
+    text-align: center;
+}
+
+.servcardcont .col {
+    max-width: 200px;
+    min-width: 150px;
+}

@@ -1,0 +1,111 @@
+.prodcont1 .col1 {
+  margin-bottom: 20px;
+}
+
+.stinfo .prodcomp {
+  margin-top: 20px;
+}
+
+.col1 .card {
+  text-align: center;
+}
+
+.col1 .card .icon {
+  margin: 0;
+}
+
+.robbody {
+  width: 400px;
+  margin: 0px;
+  padding: 5px;
+}
+
+.robcol .col {
+  width: 400px;
+}
+
+.robotscont .stimg .card-img-top {
+  width: 300px;
+  height: 200px;
+}
+
+.robotcard {
+  display: flex;
+  justify-content: space-between;
+}
+
+.robotscont p {
+  margin: 20px;
+}
+
+.staffcont1 .uavcol .uavimg .card-img-top {
+  max-width: 300px;
+  max-height: 200px;
+}
+
+.thermalimg {
+  max-width: 300px;
+  max-height: 200px;
+}
+
+.helmettext p {
+  margin: 20px;
+}
+
+.helmetimg .g-4 .pic1 {
+  width: 300px;
+  height: 250px;
+}
+
+.sa .stinfo {
+    width: 80% !important;
+}
+
+.uav .btn {
+  margin: 30px;
+  width: 150px;
+}
+
+.uav {
+  display: flex;
+  justify-content: center;
+}
+
+.robimg {
+  max-width: 350px !important;
+  width: 300px !important;
+  height: 250px !important;
+}
+
+.uavimg1 {
+  max-width: 300px !important;
+  width: 300px !important;
+  height: 180px !important;
+
+}
+
+.opttext {
+  display: flex;
+  justify-content: center;
+}
+
+.opttext p {
+  margin-top: 10px;
+}
+
+.modalbody1 {
+display: flex;
+justify-content: center;
+}
+
+
+.btn-group {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.uavbtn11 {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+}

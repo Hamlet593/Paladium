@@ -1,0 +1,55 @@
+.abtext {
+    text-align: center;
+}
+
+@media screen and (min-width: 600px) and (max-width: 20000px) {
+    .abb1 {
+        margin-top: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: justify;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
+    .abb1 {
+        margin-top: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.abb1 {
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.abb1 span {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: 0.2s;
+}
+
+.abb .col .card .card-img-top {
+    max-width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.pageTitle {
+    text-align: center;
+}
+
+/* .aboutus1 .col {
+    width: 21%;
+}
+
+.projtext .col {
+    width: 21%;
+} */

@@ -1,0 +1,14 @@
+.text {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.card-title a {
+    text-decoration: none
+}
+
+.Home .text a {
+    color: blue;
+}

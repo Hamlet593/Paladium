@@ -1,0 +1,11 @@
+.excont p {
+    margin: 20px;
+}
+.excont {
+    text-align: justify;
+}
+
+.projtext .col {
+    max-width: 300px;
+    min-width: 200px;
+}

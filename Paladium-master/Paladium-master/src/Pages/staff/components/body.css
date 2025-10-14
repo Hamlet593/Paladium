@@ -1,0 +1,10 @@
+.abb2 .card-img-top {
+    max-width: 350px;
+    max-height: 250px;
+}
+
+.abb2 .col .card .card-img-top {
+    max-width: 200px;
+    height: 220px;
+    object-fit: cover;
+}

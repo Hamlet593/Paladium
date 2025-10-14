@@ -1,0 +1,48 @@
+.workcont .pic {
+    width: 100px;
+    /* height: 100px; */
+}
+
+.workcont .pic1 {
+    width: 200px;
+    /* height: 100px; */
+}
+
+.workcont .slide {
+    width: 100px;
+}
+
+.workcont .slide1 {
+    width: 200px;
+}
+
+.modalImg {
+    max-width: 100%;
+    max-height: 100%;
+    min-height: 150px;
+    object-fit: cover;
+}
+
+.modal-backdrop {
+    background-color:rgb(0, 0, 0, 0.4);
+}
+
+.btn {
+    border: none;
+}
+
+.projtext {
+    padding: 20px;
+    text-align: justify;
+}
+
+.projlink {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.slide .card .card-img-top {
+    width: 100px;
+    height: 90px;
+}

@@ -1,0 +1,13 @@
+@media screen and (min-width: 0px) and (max-width: 1100px) {
+    .map-cont {
+        width: 300px;
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 1100px) and (max-width: 20000px) {
+    .map-cont {
+        width: 500px;
+        height: 400px;
+    }
+}

@@ -1,0 +1,41 @@
+.carousel-control-prev {
+    display: none;
+}
+
+.carousel-control-next{
+    display: none;
+}
+
+.carousel-indicators {
+    background-color: gray;
+    display: none;
+}
+
+.carousel-indicators .active {
+    background-color: orange;
+    width: 20px;
+    display: none;
+}
+
+.carousel-caption {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.link {
+    font-size: 20px;
+}
+
+.caption a {
+    text-decoration: none;
+    color: rgb(27, 105, 157);
+}
+
+.carousel-inner img {
+    max-height: 300px;
+    width: 100%;
+    min-width: 500px;
+    object-fit: cover;
+}
